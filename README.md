@@ -1,7 +1,7 @@
 # BGAMod
 ![C#](https://img.shields.io/badge/Lang-Csharp-c9c8e4.svg?&logo=csharp)
 ![Rider](https://img.shields.io/badge/IDE-Rider-c9c8e4.svg?&logo=rider)
-![Download](https://img.shields.io/github/downloads/Jongye0l/BGAMod/PesudoMaker.zip)
+![Download](https://img.shields.io/github/downloads/Jongye0l/BGAMod/BGAMod.zip)
 ---
 ### 소개 Information
 * 얼불춤에 타일과 공을 제거해줍니다
