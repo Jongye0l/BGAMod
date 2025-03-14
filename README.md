@@ -3,6 +3,8 @@
 ![Rider](https://img.shields.io/badge/IDE-Rider-c9c8e4.svg?&logo=rider)
 ![Download](https://img.shields.io/github/downloads/Jongye0l/BGAMod/BGAMod.zip)
 ---
+### 해당 모드는 [SmartEditor](https://github.com/Jongye0l/SmartEditor)와 병합되었습니다. 모드를 사용하고 싶다면 [SmartEditor](https://github.com/Jongye0l/SmartEditor)를 사용해주세요!
+---
 ### 소개 Information
 * 얼불춤에 타일과 공을 제거해줍니다
 ---
